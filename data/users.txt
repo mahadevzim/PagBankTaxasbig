@@ -1,0 +1,3 @@
+{"username":"admin","password":"admin123","name":"Administrador","email":"admin@pagbank.com","role":"admin","id":1,"createdAt":"2025-06-01T02:44:11.922Z"}
+{"username":"teste","password":"123","name":"dasd","email":"asdasd@asds.com","role":"consultant","id":2,"createdAt":"2025-06-01T02:55:00.793Z"}
+{"username":"dudrops","password":"123","name":"Diego Silva - Consultor PG192.03","email":"paulaemulador@gmail.com","role":"consultant","id":3,"createdAt":"2025-06-01T16:40:54.601Z"}
